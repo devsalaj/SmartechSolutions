@@ -8,3 +8,6 @@ const securePassword = async (password) => {
     console.log(error.message);
   }
 };
+
+
+//salaj
